@@ -5088,6 +5088,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.685" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U1" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="12.7" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.673" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="12.7" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.7" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT0" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="16.51" smashed="yes" rot="R270">
@@ -5292,6 +5293,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD8" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="45.593" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U2" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="38.608" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="38.581" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="38.608" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="38.608" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT4" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="30.988" y="16.51" smashed="yes" rot="R270">
@@ -5496,6 +5498,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD12" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="71.501" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U3" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="64.516" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="64.489" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="64.516" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="64.516" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT8" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="56.896" y="16.51" smashed="yes" rot="R270">
@@ -5700,6 +5703,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD16" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="97.409" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U4" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="90.424" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="90.397" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="90.424" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="90.424" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT12" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="82.804" y="16.51" smashed="yes" rot="R270">
@@ -5904,6 +5908,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD20" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="123.317" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U5" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="116.332" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="116.305" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="116.332" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="116.332" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT16" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="108.712" y="16.51" smashed="yes" rot="R270">
@@ -6108,6 +6113,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD24" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="149.225" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U6" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="142.24" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="142.213" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="142.24" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="142.24" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT20" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="134.62" y="16.51" smashed="yes" rot="R270">
@@ -6312,6 +6318,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD28" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.685" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U7" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="12.7" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.673" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="12.7" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.7" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT24" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="42.418" smashed="yes" rot="R270">
@@ -6516,6 +6523,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD32" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="45.593" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U8" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="38.608" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="38.581" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="38.608" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="38.608" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT28" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="30.988" y="42.418" smashed="yes" rot="R270">
@@ -6720,6 +6728,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD36" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="71.501" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U9" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="64.516" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="64.489" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="64.516" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="64.516" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT32" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="56.896" y="42.418" smashed="yes" rot="R270">
@@ -6924,6 +6933,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD40" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="97.409" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U10" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="90.424" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="90.397" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="90.424" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="90.424" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT36" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="82.804" y="42.418" smashed="yes" rot="R270">
@@ -7128,6 +7138,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD44" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="123.317" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U11" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="116.332" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="116.305" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="116.332" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="116.332" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT40" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="108.712" y="42.418" smashed="yes" rot="R270">
@@ -7332,6 +7343,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD48" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="149.225" y="27.178" smashed="yes" rot="MR0"/>
 <element name="U12" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="142.24" y="38.608" smashed="yes" rot="R270">
 <attribute name="NAME" x="142.213" y="41.311" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="142.24" y="38.608" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="142.24" y="35.305" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT44" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="134.62" y="42.418" smashed="yes" rot="R270">
@@ -7536,6 +7548,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD52" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.685" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U13" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="12.7" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.673" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="12.7" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.7" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT48" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="68.326" smashed="yes" rot="R270">
@@ -7740,6 +7753,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD56" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="45.593" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U14" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="38.608" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="38.581" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="38.608" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="38.608" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT52" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="30.988" y="68.326" smashed="yes" rot="R270">
@@ -7944,6 +7958,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD60" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="71.501" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U15" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="64.516" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="64.489" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="64.516" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="64.516" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT56" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="56.896" y="68.326" smashed="yes" rot="R270">
@@ -8148,6 +8163,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD64" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="97.409" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U16" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="90.424" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="90.397" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="90.424" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="90.424" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT60" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="82.804" y="68.326" smashed="yes" rot="R270">
@@ -8352,6 +8368,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD68" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="123.317" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U17" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="116.332" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="116.305" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="116.332" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="116.332" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT64" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="108.712" y="68.326" smashed="yes" rot="R270">
@@ -8556,6 +8573,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD72" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="149.225" y="53.086" smashed="yes" rot="MR0"/>
 <element name="U18" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="142.24" y="64.516" smashed="yes" rot="R270">
 <attribute name="NAME" x="142.213" y="67.219" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="142.24" y="64.516" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="142.24" y="61.213" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT68" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="134.62" y="68.326" smashed="yes" rot="R270">
@@ -8760,6 +8778,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD76" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.685" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U19" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="12.7" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.673" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="12.7" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.7" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT72" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="94.234" smashed="yes" rot="R270">
@@ -8964,6 +8983,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD80" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="45.593" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U20" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="38.608" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="38.581" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="38.608" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="38.608" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT76" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="30.988" y="94.234" smashed="yes" rot="R270">
@@ -9168,6 +9188,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD84" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="71.501" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U21" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="64.516" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="64.489" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="64.516" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="64.516" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT80" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="56.896" y="94.234" smashed="yes" rot="R270">
@@ -9372,6 +9393,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD88" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="97.409" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U22" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="90.424" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="90.397" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="90.424" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="90.424" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT84" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="82.804" y="94.234" smashed="yes" rot="R270">
@@ -9576,6 +9598,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD92" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="123.317" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U23" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="116.332" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="116.305" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="116.332" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="116.332" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT88" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="108.712" y="94.234" smashed="yes" rot="R270">
@@ -9780,6 +9803,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD96" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="149.225" y="78.994" smashed="yes" rot="MR0"/>
 <element name="U24" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="142.24" y="90.424" smashed="yes" rot="R270">
 <attribute name="NAME" x="142.213" y="93.127" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="142.24" y="90.424" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="142.24" y="87.121" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT92" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="134.62" y="94.234" smashed="yes" rot="R270">

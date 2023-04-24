@@ -203,8 +203,8 @@
 <text x="86.36" y="-13.97" size="1.778" layer="51" font="vector" ratio="15">Paul Clark</text>
 <text x="39.37" y="35.56" size="1.778" layer="51" font="vector" ratio="15" align="top-left">Thickness: 1.6mm
 2 Layers
-Black Resist
-White Silk
+Black Solder Resist
+White Silkscreen
 Finish: HASL Lead Free</text>
 <dimension x1="2.54" y1="22.86" x2="22.86" y2="22.86" x3="12.7" y3="27.94" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
 <dimension x1="0" y1="25.4" x2="25.4" y2="25.4" x3="12.7" y3="31.75" textsize="1.778" textratio="15" layer="47" dtype="horizontal" unit="inch"/>
@@ -4719,6 +4719,7 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="19.685" y="1.27" smashed="yes" rot="MR0"/>
 <element name="U1" library="SparkFun-IC-Logic" package="SOT403-1" value="PCA9846" x="12.7" y="12.7" smashed="yes" rot="R270">
 <attribute name="NAME" x="12.673" y="15.403" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
+<attribute name="PROD_ID" value="IC-18372" x="12.7" y="12.7" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.7" y="9.397" size="0.6096" layer="27" font="vector" ratio="20" align="bottom-center"/>
 </element>
 <element name="PORT0" library="SparkFun-Connectors" package="JST04_1MM_RA" value="QWIIC_RIGHT_ANGLE" x="5.08" y="16.51" smashed="yes" rot="R270">
@@ -5557,18 +5558,18 @@ These are the free and generally easy to produce 2-layer PCB design rules. You c
 <mfgpreviewcolor name="substratecolor" color="0xFF786E46"/>
 </mfgpreviewcolors>
 <errors>
-<approved hash="19,16,ce45c73ab2f2d087"/>
-<approved hash="19,16,013c180b3a8a5f87"/>
-<approved hash="19,16,176d5160f664a06b"/>
 <approved hash="19,16,894e8fcb1107d9f1"/>
 <approved hash="19,16,c4d8f07b5264cbec"/>
-<approved hash="19,16,b3b274d9ccaf0751"/>
-<approved hash="19,16,11cc79d13cdd1f7f"/>
-<approved hash="19,16,2a5532516efa0970"/>
-<approved hash="19,16,38083f4f8bc520bf"/>
 <approved hash="19,16,1bb864899f0e9350"/>
 <approved hash="19,16,4f4690635de18df0"/>
-<approved hash="19,16,edc89f6dbe3b30e0"/>
+<approved hash="19,16,b3a07489cf176334"/>
+<approved hash="19,16,280f4f3413b908b8"/>
+<approved hash="19,16,afc5bf1efc361093"/>
+<approved hash="19,16,cc47c56ab35ab6e2"/>
+<approved hash="19,16,0164677245cb5c53"/>
+<approved hash="19,16,5b5d6f58ba549e53"/>
+<approved hash="19,16,51229870e2ef8780"/>
+<approved hash="19,16,ae7334348362529a"/>
 </errors>
 </board>
 </drawing>
