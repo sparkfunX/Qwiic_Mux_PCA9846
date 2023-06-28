@@ -44,14 +44,14 @@ The default mux address is 0x70 (unshifted). You can change it by opening and cl
 
 | Address | A4 | A3 | A2 | A1 | A0 |
 |---|---|---|---|---|---|
-| 0x70 | Open | Open | Open | Open | Closed |
-| 0x71 | Open | Open | Open | Closed | Open |
-| 0x72 | Open | Open | Closed | Open | Open |
-| 0x73 | Open | Closed | Open | Open | Open |
-| 0x74 | Closed | Open | Open | Open | Closed |
-| 0x75 | Closed | Open | Open | Closed | Open |
-| 0x76 | Closed | Open | Closed | Open | Open |
-| 0x77 | Closed | Closed | Open | Open | Open |
+| 0x70 | Open | Open | Open | Open | **Closed** |
+| 0x71 | Open | Open | Open | **Closed** | Open |
+| 0x72 | Open | Open | **Closed** | Open | Open |
+| 0x73 | Open | **Closed** | Open | Open | Open |
+| 0x74 | **Closed** | Open | Open | Open | **Closed** |
+| 0x75 | **Closed** | Open | Open | **Closed** | Open |
+| 0x76 | **Closed** | Open | **Closed** | Open | Open |
+| 0x77 | **Closed** | **Closed** | Open | Open | Open |
 
 
 License Information
